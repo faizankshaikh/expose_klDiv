@@ -1,6 +1,6 @@
 # An Expose on Kullback-Leibler Divergence
 
-This repository contains the write-up and respective code for "An Expose on Kullback-Leibler Divergence", a class project on
+This repository contains the write-up and respective code for "An Expose on Kullback-Leibler Divergence", a class project for Information Theory course
 
 ## Abstract
 
